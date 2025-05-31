@@ -1,1 +1,1 @@
-# QUICKCOMMERCE_Investment-memi
+# QUICKCOMMERCE_Investment-memo
